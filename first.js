@@ -62,3 +62,36 @@ let valuinNumber5= String(score5)
 console.log(valuinNumber5) 
 console.log(typeof valuinNumber5) 
 
+
+// -----------------------------Operations........................................
+let num= 2
+let makeNegative= -num
+console.log(makeNegative) 
+
+console.log(2-2)
+console.log(2+2)
+console.log(3*2)
+console.log(3**2) 
+console.log(2/3)
+console.log(2%4)
+
+let name1= "Amna"
+let name2= " Farrooq"
+let sum= name1+name2
+console.log(sum) 
+
+// Prblems in addition of strings and numbers
+console.log("1" +2)
+console.log(typeof (1 +"2"))
+console.log(typeof ("1"+2+2))
+console.log((3+4)*5%3) 
+
+// prefix and postfix
+let gameCounter= 100
+// prefix
+++gameCounter
+// postfix
+gameCounter++
+console.log(gameCounter)
+
+
