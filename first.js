@@ -1,4 +1,6 @@
-// constant varibales
+//  JavaScript Basic
+
+// / constant varibales
 const name_1 = "Amna"
 let roll_no= 12
 var email_id= "amnafarooq445@gmail.com"
