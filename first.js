@@ -94,4 +94,25 @@ let gameCounter= 100
 gameCounter++
 console.log(gameCounter)
 
+// Comparisons
+console.log(2>=1)
+console.log(2>1)
+console.log(2<1)
+console.log(2==1)
+console.log(2!=1) 
+
+// comparison operator checking
+console.log(null <=0)
+console.log(null>=0)
+console.log(null== 0)
+
+console.log(undefined==0)
+console.log(undefined<=0)
+console.log(undefined>=0)
+// avoid the above comaprisons operators , because it don't check the data type before comparison
+
+
+// strict check
+console.log("2"===2)
+// it will check dayatype before comparison, but didn't convert the data types.
 
